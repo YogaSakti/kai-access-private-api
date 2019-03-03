@@ -1,4 +1,4 @@
-KAI Access Unofficial API
+KAI Access Private API
 ===================
 ![logo](https://kai.id/static/konten/logokai_main.png)
 ----
